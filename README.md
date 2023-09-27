@@ -1,4 +1,5 @@
-# PixelHosting
+![image](https://github.com/PixelHostingOfficial/PixelHosting/assets/93615331/9add5e28-9a3c-4763-ba7c-9cabde983fbe)
+
 
 ## What is PixelHosting all about?
 PixelHosting is an upcoming budget hosting service exclusively for Minecraft Servers. Run by a dedicated team of two individuals, we are committed to bringing the best price-to-performance in the hosting industry. We prioritize customer satisfaction above all else and are completely transparent.
